@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nome": "Infurnus",
+    "tipo": "Fogo",
+    "descricao": "Slug lendária de fogo, extremamente rara e poderosa.",
+    "habilidades": ["Lança chamas intensos", "Explosão de calor"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 2,
+    "nome": "Burpy",
+    "tipo": "Fogo",
+    "descricao": "Infurnus de Eli Shane, leal e corajoso.",
+    "habilidades": ["Chama concentrada", "Explosão controlada"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 3,
+    "nome": "Tazerling",
+    "tipo": "Elétrico",
+    "descricao": "Slug especializada em ataques elétricos rápidos.",
+    "habilidades": ["Choque elétrico", "Paralisia momentânea"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 4,
+    "nome": "Boon Doc",
+    "tipo": "Curandeiro",
+    "descricao": "Slug lendária com poder de cura e regeneração.",
+    "habilidades": ["Regeneração", "Restauração de energia"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 5,
+    "nome": "Rammstone",
+    "tipo": "Pedra",
+    "descricao": "Slug forte com corpo blindado, usada para ataques físicos pesados.",
+    "habilidades": ["Investida", "Defesa de rocha"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 6,
+    "nome": "Armashelt",
+    "tipo": "Defensiva",
+    "descricao": "Slug que cria escudos protetores para defesa própria e de aliados.",
+    "habilidades": ["Escudo de energia", "Proteção em grupo"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 7,
+    "nome": "Hop Rock",
+    "tipo": "Pedra",
+    "descricao": "Slug que pode saltar grandes distâncias e esmagar inimigos.",
+    "habilidades": ["Salto pesado", "Impacto terrestre"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 8,
+    "nome": "Thresher",
+    "tipo": "Terra",
+    "descricao": "Slug subterrânea que cria rachaduras e tremores.",
+    "habilidades": ["Terremoto", "Rachadura profunda"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 9,
+    "nome": "Frostcrawler",
+    "tipo": "Gelo",
+    "descricao": "Slug de gelo capaz de congelar inimigos rapidamente.",
+    "habilidades": ["Congelamento rápido", "Raio de gelo"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 10,
+    "nome": "Arachnet",
+    "tipo": "Aracnídeo",
+    "descricao": "Slug que cria teias para prender inimigos e manipular o terreno.",
+    "habilidades": ["Lançar teias", "Armadilha pegajosa"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 11,
+    "nome": "Flatulorhinkus",
+    "tipo": "Gás",
+    "descricao": "Slug que libera gases potentes, útil para confundir adversários.",
+    "habilidades": ["Explosão de gás", "Confusão adversária"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 12,
+    "nome": "Bubbaleone",
+    "tipo": "Bolhas",
+    "descricao": "Slug que cria bolhas defensivas ou ofensivas.",
+    "habilidades": ["Bolha protetora", "Prisão de bolha"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 13,
+    "nome": "Frightgeist",
+    "tipo": "Sombra",
+    "descricao": "Slug fantasmagórica capaz de assustar inimigos e criar ilusões.",
+    "habilidades": ["Assustar", "Ilusão sombria"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 14,
+    "nome": "Jellyish",
+    "tipo": "Psíquico",
+    "descricao": "Slug que pode manipular a mente de outros por um curto período.",
+    "habilidades": ["Hipnose", "Confusão mental"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 15,
+    "nome": "Vinedrill",
+    "tipo": "Planta",
+    "descricao": "Slug perfuradora que usa vinhas para atacar inimigos.",
+    "habilidades": ["Broca de vinhas", "Estocada perfurante"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 16,
+    "nome": "Aquabeek",
+    "tipo": "Água",
+    "descricao": "Slug aquática que dispara jatos de água com alta pressão.",
+    "habilidades": ["Rajada aquática", "Bolha esmagadora"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 17,
+    "nome": "Fandango",
+    "tipo": "Fogo",
+    "descricao": "Slug de ataque rápido com chamas ágeis.",
+    "habilidades": ["Chama rápida", "Explosão em movimento"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 18,
+    "nome": "Enigmo",
+    "tipo": "Misteriosa",
+    "descricao": "Slug rara e enigmática, efeitos variados desconhecidos.",
+    "habilidades": ["Efeito misterioso", "Confusão"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 19,
+    "nome": "Speedstinger",
+    "tipo": "Velocidade",
+    "descricao": "Slug extremamente rápida, difícil de atingir.",
+    "habilidades": ["Dash relâmpago", "Ataque rápido"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 20,
+    "nome": "Lariat",
+    "tipo": "Planta",
+    "descricao": "Slug que utiliza cipós e raízes para imobilizar inimigos.",
+    "habilidades": ["Amarra vegetal", "Ataque de raízes"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 21,
+    "nome": "Phosphoro",
+    "tipo": "Luz",
+    "descricao": "Slug que ilumina áreas e pode cegar adversários.",
+    "habilidades": ["Flash cegante", "Raio luminoso"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 22,
+    "nome": "Polero",
+    "tipo": "Gelo",
+    "descricao": "Slug polar que cria ataques congelantes em área.",
+    "habilidades": ["Sopro gelado", "Cristais de gelo"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 23,
+    "nome": "Slicksilver",
+    "tipo": "Metal",
+    "descricao": "Slug veloz feita de mercúrio prateado, difícil de agarrar.",
+    "habilidades": ["Corte metálico", "Projeção líquida"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 24,
+    "nome": "Slyren",
+    "tipo": "Água",
+    "descricao": "Slug que se move com agilidade e ataques líquidos precisos.",
+    "habilidades": ["Ataque aquático", "Movimento ágil"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 25,
+    "nome": "Tormato",
+    "tipo": "Terra",
+    "descricao": "Slug poderosa com ataque de impacto sísmico.",
+    "habilidades": ["Impacto terrestre", "Tremor"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 26,
+    "nome": "Ghoul Infurnus",
+    "tipo": "Trevas",
+    "descricao": "Versão corrompida da Infurnus, com chamas negras.",
+    "habilidades": ["Chama negra", "Explosão corrupta"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 27,
+    "nome": "Negashade",
+    "tipo": "Sombra",
+    "descricao": "Slug sombria que manipula trevas e ilusões.",
+    "habilidades": ["Campo sombrio", "Explosão de trevas"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 28,
+    "nome": "MakoBreaker",
+    "tipo": "Água",
+    "descricao": "Slug predadora aquática com ataques rápidos e cortantes.",
+    "habilidades": ["Mordida aquática", "Corte submarino"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 29,
+    "nome": "Geoshard",
+    "tipo": "Cristal",
+    "descricao": "Slug que dispara fragmentos de cristal afiados.",
+    "habilidades": ["Rajada cristalina", "Explosão de estilhaços"],
+    "imagem": "url_aqui"
+  },
+  {
+    "id": 30,
+    "nome": "Hoverbug",
+    "tipo": "Voo",
+    "descricao": "Slug inseto que cria correntes de ar para levantar voo.",
+    "habilidades": ["Rajada de vento", "Turbilhão aéreo"],
+    "imagem": "url_aqui"
+  }
+]
